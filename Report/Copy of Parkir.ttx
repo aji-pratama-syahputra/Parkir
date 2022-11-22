@@ -1,0 +1,8 @@
+Tanggal		Date
+NoPlat		String	30
+JamMasuk	Date
+OpMasuk		String	50
+JamKeluar	Date
+OpKeluar	String	50
+Biaya		Number
+Keterangan	String	100
